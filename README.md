@@ -14,7 +14,7 @@ Welcome to the YouTube Video Summarizer project! This tool is designed to simpli
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/youtube-video-summarizer.git`
+1. Clone the repository: `git clone https://github.com/aryan0931/youtube-video-summarizer.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Obtain YouTube API Key: Follow the instructions in the `config.js` file to set up your YouTube Data API key.
 4. Run the application: `npm start` or `yarn start`
